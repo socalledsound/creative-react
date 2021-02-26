@@ -1,6 +1,5 @@
 
 export const circleStyle = {
-    backgroundColor: '#FF0000',
     width : '100px',
     height : '100px',
     borderRadius : '50px',
@@ -8,7 +7,6 @@ export const circleStyle = {
 }
 
 export const squareStyle = {
-    backgroundColor: '#FF0000',
     width : '100px',
     height : '100px',
     position : 'absolute',
